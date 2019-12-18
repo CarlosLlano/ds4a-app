@@ -43,7 +43,7 @@ It allows the user to explore all the data available that contains information o
 
 *DETAILED ANALYSIS*  
 
-![6 detailed](https://user-images.githubusercontent.com/17281733/71057472-c7a45480-212a-11ea-8a0a-0db35452e3df.png)  
+![6 detailed-1](https://user-images.githubusercontent.com/17281733/71058667-9037a700-212e-11ea-8989-4c19bf1bec8f.png) 
 
 ![6 detailed-heatmap](https://user-images.githubusercontent.com/17281733/71057473-c7a45480-212a-11ea-8e57-6bc9bd7d8029.png)  
 
