@@ -2,13 +2,13 @@
 
 Final project for the **2019 Colombia Data Science for All (DS4A) program**.  
 
-For any doubts, please contact:
+For any doubts, please contact:  
 
-| Name            |            Email           |                             Github |
-|-----------------|:--------------------------:|-----------------------------------:|
-| Carlos Llano    | carlos.llano9499@gmail.com |     https://github.com/CarlosLlano |
-| Jaison Gonzalez | jaison.gonzalezd@gmail.com |         https://github.com/jagd724 |
-| Jaime A. Vargas |  jaimevargasc92@gmail.com  | https://github.com/jaimevargascruz |
+| Name            |            Email           |                             Github | Linkedin                                       |
+|-----------------|:--------------------------:|-----------------------------------:|------------------------------------------------|
+| Carlos Llano    | carlos.llano9499@gmail.com |     https://github.com/CarlosLlano | [linkedin.com/in/carlosllanolozano](https://www.linkedin.com/in/carlosllanolozano/) |
+| Jaison Gonzalez | jaison.gonzalezd@gmail.com |         https://github.com/jagd724 | [linkedin.com/in/json724](https://www.linkedin.com/in/json724/)           |
+| Jaime A. Vargas |  jaimevargasc92@gmail.com  | https://github.com/jaimevargascruz | [linkedin.com/in/jaime-a-vargas-c](https://www.linkedin.com/in/jaime-a-vargas-c/)  |
 
 ### Introduction
 In Colombia, the ICFES exam is the standard way to measure the quality of secondary education. Five different topics (mathematics, natural sciences, english, language and social science) are tested, and the student is given a normalized global score that allows to rank a person within the whole set of students.  
