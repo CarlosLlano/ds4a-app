@@ -9,7 +9,7 @@ def build_dashboard_detailed():
         [
             html.H6("Detailed analysis"),
             html.Br(),
-            html.P("Select variables to see the behaviour over time in specifif departments or cities."),
+            html.P("Select variables to see the behaviour over time in specific departments or cities."),
             html.Div(
                 [
                     filters_dashboard_detailed(),
